@@ -1,0 +1,150 @@
+Mon Mar 18 2024 12:25:53 GMT-0300 [notice] - [cache] Dependency cache is up to date, proceeding.
+Mon Mar 18 2024 12:25:53 GMT-0300 [verbose] - [cache] writing new manifest
+Mon Mar 18 2024 12:25:53 GMT-0300 [error] - [cache] Error writing cache manifest: Error: EACCES: permission denied, open '/usr/lib/node_modules/highcharts-export-server/.cache/manifest.json'.
+Mon Mar 18 2024 12:25:53 GMT-0300 [notice] - [browser] attempting to get a browser instance (try 0)
+Mon Mar 18 2024 12:25:55 GMT-0300 [notice] - [pool] Initializing pool: min 5, max 25.
+Mon Mar 18 2024 12:25:55 GMT-0300 [verbose] - [pool] Attaching exit listeners to the process.
+Mon Mar 18 2024 12:25:58 GMT-0300 [notice] - [pool] Successfully created a worker 77086dc9-0ff7-4f00-84f1-0e4c07cda652 - took 3499 ms.
+Mon Mar 18 2024 12:25:59 GMT-0300 [notice] - [pool] Successfully created a worker 2fd35d34-c5c5-4c54-9852-0fba747ef8fc - took 370 ms.
+Mon Mar 18 2024 12:25:59 GMT-0300 [notice] - [pool] Successfully created a worker 803cb78b-4533-421f-905b-d092f67d9749 - took 395 ms.
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [pool] Successfully created a worker 1b330a48-4cae-4c1a-845b-c04825d982db - took 640 ms.
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [pool] Successfully created a worker 9cf50acf-25d6-4c1a-9ad3-0b490671d856 - took 395 ms.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Releasing a worker of an id 77086dc9-0ff7-4f00-84f1-0e4c07cda652
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Releasing a worker of an id 2fd35d34-c5c5-4c54-9852-0fba747ef8fc
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Releasing a worker of an id 803cb78b-4533-421f-905b-d092f67d9749
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Releasing a worker of an id 1b330a48-4cae-4c1a-845b-c04825d982db
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Releasing a worker of an id 9cf50acf-25d6-4c1a-9ad3-0b490671d856
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [pool] The pool is ready with 5 initial resources waiting.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [chart] Starting exporting process.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [chart] Attempting to export from an input file.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [chart] Starting exporting process.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [chart] Attempting to export from an input file.
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [chart] The default resources.json file not found.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Work received, starting to process.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Acquiring worker
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Acquired worker handle
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Starting work on pool entry 9cf50acf-25d6-4c1a-9ad3-0b490671d856.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [export] Determining export path.
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [chart] The default resources.json file not found.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Work received, starting to process.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Acquiring worker
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Acquired worker handle
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Starting work on pool entry 1b330a48-4cae-4c1a-845b-c04825d982db.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [export] Determining export path.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [export] Treating as config.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [export] Treating as config.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Releasing a worker of an id 1b330a48-4cae-4c1a-845b-c04825d982db
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Work completed in 319 ms.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Releasing a worker of an id 9cf50acf-25d6-4c1a-9ad3-0b490671d856
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Work completed in 370 ms.
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [pool] Killing all workers.
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [pool] Destroying pool entry 77086dc9-0ff7-4f00-84f1-0e4c07cda652.
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [pool] Destroying pool entry 2fd35d34-c5c5-4c54-9852-0fba747ef8fc.
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [pool] Destroying pool entry 803cb78b-4533-421f-905b-d092f67d9749.
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [pool] Destroying pool entry 1b330a48-4cae-4c1a-845b-c04825d982db.
+Mon Mar 18 2024 12:26:00 GMT-0300 [notice] - [pool] Destroying pool entry 9cf50acf-25d6-4c1a-9ad3-0b490671d856.
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 77086dc9-0ff7-4f00-84f1-0e4c07cda652
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 2fd35d34-c5c5-4c54-9852-0fba747ef8fc
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 803cb78b-4533-421f-905b-d092f67d9749
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 1b330a48-4cae-4c1a-845b-c04825d982db
+Mon Mar 18 2024 12:26:00 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 9cf50acf-25d6-4c1a-9ad3-0b490671d856
+Mon Mar 18 2024 12:45:27 GMT-0300 [notice] - [cache] Dependency cache is up to date, proceeding.
+Mon Mar 18 2024 12:45:27 GMT-0300 [verbose] - [cache] writing new manifest
+Mon Mar 18 2024 12:45:27 GMT-0300 [error] - [cache] Error writing cache manifest: Error: EACCES: permission denied, open '/usr/lib/node_modules/highcharts-export-server/.cache/manifest.json'.
+Mon Mar 18 2024 12:45:27 GMT-0300 [notice] - [browser] attempting to get a browser instance (try 0)
+Mon Mar 18 2024 12:45:28 GMT-0300 [notice] - [pool] Initializing pool: min 5, max 25.
+Mon Mar 18 2024 12:45:28 GMT-0300 [verbose] - [pool] Attaching exit listeners to the process.
+Mon Mar 18 2024 12:45:29 GMT-0300 [notice] - [pool] Successfully created a worker eee71f36-f40c-4687-a91a-5f270305c846 - took 1005 ms.
+Mon Mar 18 2024 12:45:29 GMT-0300 [notice] - [pool] Successfully created a worker 06bc9cfc-6172-4762-be59-25194e8a1b6f - took 534 ms.
+Mon Mar 18 2024 12:45:30 GMT-0300 [notice] - [pool] Successfully created a worker 8e6c9bd5-1649-4541-82b4-2418980395a5 - took 412 ms.
+Mon Mar 18 2024 12:45:30 GMT-0300 [notice] - [pool] Successfully created a worker 48651d0f-a13d-4d86-9922-7845d85896a5 - took 371 ms.
+Mon Mar 18 2024 12:45:30 GMT-0300 [notice] - [pool] Successfully created a worker 2afd94ed-9a9b-485e-b3de-300e1ee165c6 - took 403 ms.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Releasing a worker of an id eee71f36-f40c-4687-a91a-5f270305c846
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Releasing a worker of an id 06bc9cfc-6172-4762-be59-25194e8a1b6f
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Releasing a worker of an id 8e6c9bd5-1649-4541-82b4-2418980395a5
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Releasing a worker of an id 48651d0f-a13d-4d86-9922-7845d85896a5
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Releasing a worker of an id 2afd94ed-9a9b-485e-b3de-300e1ee165c6
+Mon Mar 18 2024 12:45:30 GMT-0300 [notice] - [pool] The pool is ready with 5 initial resources waiting.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [chart] Starting exporting process.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [chart] Attempting to export from an input file.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [chart] Starting exporting process.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [chart] Attempting to export from an input file.
+Mon Mar 18 2024 12:45:30 GMT-0300 [notice] - [chart] The default resources.json file not found.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Work received, starting to process.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Acquiring worker
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Acquired worker handle
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Starting work on pool entry 2afd94ed-9a9b-485e-b3de-300e1ee165c6.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [export] Determining export path.
+Mon Mar 18 2024 12:45:30 GMT-0300 [notice] - [chart] The default resources.json file not found.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Work received, starting to process.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Acquiring worker
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Acquired worker handle
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [pool] Starting work on pool entry 48651d0f-a13d-4d86-9922-7845d85896a5.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [export] Determining export path.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [export] Treating as config.
+Mon Mar 18 2024 12:45:30 GMT-0300 [verbose] - [export] Treating as config.
+Mon Mar 18 2024 12:45:31 GMT-0300 [verbose] - [pool] Releasing a worker of an id 48651d0f-a13d-4d86-9922-7845d85896a5
+Mon Mar 18 2024 12:45:31 GMT-0300 [verbose] - [pool] Work completed in 322 ms.
+Mon Mar 18 2024 12:45:31 GMT-0300 [verbose] - [pool] Releasing a worker of an id 2afd94ed-9a9b-485e-b3de-300e1ee165c6
+Mon Mar 18 2024 12:45:31 GMT-0300 [verbose] - [pool] Work completed in 390 ms.
+Mon Mar 18 2024 12:45:31 GMT-0300 [notice] - [pool] Killing all workers.
+Mon Mar 18 2024 12:45:31 GMT-0300 [notice] - [pool] Destroying pool entry eee71f36-f40c-4687-a91a-5f270305c846.
+Mon Mar 18 2024 12:45:31 GMT-0300 [notice] - [pool] Destroying pool entry 06bc9cfc-6172-4762-be59-25194e8a1b6f.
+Mon Mar 18 2024 12:45:31 GMT-0300 [notice] - [pool] Destroying pool entry 8e6c9bd5-1649-4541-82b4-2418980395a5.
+Mon Mar 18 2024 12:45:31 GMT-0300 [notice] - [pool] Destroying pool entry 48651d0f-a13d-4d86-9922-7845d85896a5.
+Mon Mar 18 2024 12:45:31 GMT-0300 [notice] - [pool] Destroying pool entry 2afd94ed-9a9b-485e-b3de-300e1ee165c6.
+Mon Mar 18 2024 12:45:31 GMT-0300 [verbose] - [pool] Destroyed a worker of an id eee71f36-f40c-4687-a91a-5f270305c846
+Mon Mar 18 2024 12:45:31 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 06bc9cfc-6172-4762-be59-25194e8a1b6f
+Mon Mar 18 2024 12:45:31 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 8e6c9bd5-1649-4541-82b4-2418980395a5
+Mon Mar 18 2024 12:45:31 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 48651d0f-a13d-4d86-9922-7845d85896a5
+Mon Mar 18 2024 12:45:31 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 2afd94ed-9a9b-485e-b3de-300e1ee165c6
+Mon Mar 18 2024 13:03:13 GMT-0300 [notice] - [cache] Dependency cache is up to date, proceeding.
+Mon Mar 18 2024 13:03:13 GMT-0300 [verbose] - [cache] writing new manifest
+Mon Mar 18 2024 13:03:13 GMT-0300 [error] - [cache] Error writing cache manifest: Error: EACCES: permission denied, open '/usr/lib/node_modules/highcharts-export-server/.cache/manifest.json'.
+Mon Mar 18 2024 13:03:13 GMT-0300 [notice] - [browser] attempting to get a browser instance (try 0)
+Mon Mar 18 2024 13:03:16 GMT-0300 [notice] - [pool] Initializing pool: min 5, max 25.
+Mon Mar 18 2024 13:03:16 GMT-0300 [verbose] - [pool] Attaching exit listeners to the process.
+Mon Mar 18 2024 13:03:17 GMT-0300 [notice] - [pool] Successfully created a worker b4490776-5f0a-4e4a-8062-b5445c23ec59 - took 473 ms.
+Mon Mar 18 2024 13:03:17 GMT-0300 [notice] - [pool] Successfully created a worker 80340e68-532b-440e-8553-5cb1695756d6 - took 344 ms.
+Mon Mar 18 2024 13:03:17 GMT-0300 [notice] - [pool] Successfully created a worker ebd7b33c-ab71-412e-9e83-524504a8b49b - took 419 ms.
+Mon Mar 18 2024 13:03:18 GMT-0300 [notice] - [pool] Successfully created a worker 98b750b2-c478-40a2-b179-74585911f4c1 - took 363 ms.
+Mon Mar 18 2024 13:03:18 GMT-0300 [notice] - [pool] Successfully created a worker af93253c-47f0-4ac7-8f17-b869fade3f6d - took 516 ms.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Releasing a worker of an id b4490776-5f0a-4e4a-8062-b5445c23ec59
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Releasing a worker of an id 80340e68-532b-440e-8553-5cb1695756d6
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Releasing a worker of an id ebd7b33c-ab71-412e-9e83-524504a8b49b
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Releasing a worker of an id 98b750b2-c478-40a2-b179-74585911f4c1
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Releasing a worker of an id af93253c-47f0-4ac7-8f17-b869fade3f6d
+Mon Mar 18 2024 13:03:18 GMT-0300 [notice] - [pool] The pool is ready with 5 initial resources waiting.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [chart] Starting exporting process.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [chart] Attempting to export from an input file.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [chart] Starting exporting process.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [chart] Attempting to export from an input file.
+Mon Mar 18 2024 13:03:18 GMT-0300 [notice] - [chart] The default resources.json file not found.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Work received, starting to process.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Acquiring worker
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Acquired worker handle
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Starting work on pool entry af93253c-47f0-4ac7-8f17-b869fade3f6d.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [export] Determining export path.
+Mon Mar 18 2024 13:03:18 GMT-0300 [notice] - [chart] The default resources.json file not found.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Work received, starting to process.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Acquiring worker
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Acquired worker handle
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Starting work on pool entry 98b750b2-c478-40a2-b179-74585911f4c1.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [export] Determining export path.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [export] Treating as config.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [export] Treating as config.
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Releasing a worker of an id 98b750b2-c478-40a2-b179-74585911f4c1
+Mon Mar 18 2024 13:03:18 GMT-0300 [verbose] - [pool] Work completed in 270 ms.
+Mon Mar 18 2024 13:03:19 GMT-0300 [verbose] - [pool] Releasing a worker of an id af93253c-47f0-4ac7-8f17-b869fade3f6d
+Mon Mar 18 2024 13:03:19 GMT-0300 [verbose] - [pool] Work completed in 587 ms.
+Mon Mar 18 2024 13:03:19 GMT-0300 [notice] - [pool] Killing all workers.
+Mon Mar 18 2024 13:03:19 GMT-0300 [notice] - [pool] Destroying pool entry b4490776-5f0a-4e4a-8062-b5445c23ec59.
+Mon Mar 18 2024 13:03:19 GMT-0300 [notice] - [pool] Destroying pool entry 80340e68-532b-440e-8553-5cb1695756d6.
+Mon Mar 18 2024 13:03:19 GMT-0300 [notice] - [pool] Destroying pool entry ebd7b33c-ab71-412e-9e83-524504a8b49b.
+Mon Mar 18 2024 13:03:19 GMT-0300 [notice] - [pool] Destroying pool entry 98b750b2-c478-40a2-b179-74585911f4c1.
+Mon Mar 18 2024 13:03:19 GMT-0300 [notice] - [pool] Destroying pool entry af93253c-47f0-4ac7-8f17-b869fade3f6d.
+Mon Mar 18 2024 13:03:19 GMT-0300 [verbose] - [pool] Destroyed a worker of an id b4490776-5f0a-4e4a-8062-b5445c23ec59
+Mon Mar 18 2024 13:03:19 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 80340e68-532b-440e-8553-5cb1695756d6
+Mon Mar 18 2024 13:03:19 GMT-0300 [verbose] - [pool] Destroyed a worker of an id ebd7b33c-ab71-412e-9e83-524504a8b49b
+Mon Mar 18 2024 13:03:19 GMT-0300 [verbose] - [pool] Destroyed a worker of an id 98b750b2-c478-40a2-b179-74585911f4c1
+Mon Mar 18 2024 13:03:19 GMT-0300 [verbose] - [pool] Destroyed a worker of an id af93253c-47f0-4ac7-8f17-b869fade3f6d
